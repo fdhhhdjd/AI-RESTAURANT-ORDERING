@@ -24,18 +24,32 @@ Bot sẽ trả lời:
 
 ---
 
-## 📸 Hình minh họa (thầy tự thay hình của mình)
+## 📸 Giao diện FoodBot AI
 
-Thầy chỉ cần chụp màn hình UI rồi lưu vào thư mục `docs/` là xong.
+> Một vài màn hình chính của hệ thống **FoodBot – Chatbot AI hỗ trợ đặt món & quản lý đơn hàng**.
 
-- Ảnh 1 – Giao diện chat với FoodBot  
-  (file: `./docs/foodbot-chat-ui.png`)
-
-- Ảnh 2 – Popup giỏ hàng & xác nhận đơn  
-  (file: `./docs/foodbot-cart-modal.png`)
-
-- Ảnh 3 – Lịch sử đơn hàng / quản lý đơn  
-  (file: `./docs/foodbot-orders-history.png`)
+<table>
+  <tr>
+    <td align="center">
+      <strong>1. Giao diện chat với FoodBot</strong><br/>
+      <img src="./docs/foodbot-chat-ui.png" alt="FoodBot chat UI" width="420" />
+    </td>
+    <td align="center">
+      <strong>2. Popup giỏ hàng &amp; xác nhận đơn</strong><br/>
+      <img src="./docs/foodbot-cart-modal.png" alt="FoodBot cart modal" width="420" />
+    </td>
+  </tr>
+  <tr>
+    <td align="center">
+      <strong>3. Lịch sử đơn hàng / quản lý đơn</strong><br/>
+      <img src="./docs/foodbot-orders-history.png" alt="FoodBot orders history" width="420" />
+    </td>
+    <td align="center">
+      <strong>4. Xem chi tiết đơn / quản lý đơn</strong><br/>
+      <img src="./docs/foodbot-orders-detail.png" alt="FoodBot order detail" width="420" />
+    </td>
+  </tr>
+</table>
 
 ---
 
